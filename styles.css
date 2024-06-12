@@ -1,0 +1,27 @@
+body {
+  background-color: #ffcccc;
+}
+body {
+  color: #f55966ea;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Pacifico', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.all {
+  background-image: url('https://i.pinimg.com/564x/55/96/30/5596301a5741bdad33acde09fbe045b4.jpg');
+  color:#c93535
+}
+.favorites {
+  background-image: url('https://i.pinimg.com/564x/c6/ea/02/c6ea02615fd274aec3867eaf49787230.jpg');
+  color:#b30202;
+}
+
+.ending {background-image: url(https://i.pinimg.com/564x/50/56/3d/50563dd27350f5777898f304c336d323.jpg);}
+
+.goals {background-image: url(https://i.pinimg.com/736x/66/62/f5/6662f59e693fd2f0cdd55b9d7f419c44.jpg);}
